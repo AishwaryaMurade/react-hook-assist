@@ -1,9 +1,16 @@
 {
   "name": "react-hook-assist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "react-hook-assist is a versatile library of custom React hooks designed to accelerate application development by providing essential utilities for state management, side effects, data fetching, and performance optimization. With react-hook-assist, developers can write cleaner, more efficient code, making their applications more robust and easier to maintain.",
   "author": "AishwaryaMurade",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "hooks",
+    "utility",
+    "custom",
+    "library"
+  ],
   "repository": "AishwaryaMurade/react-hook-assist",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
