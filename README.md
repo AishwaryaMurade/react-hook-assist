@@ -145,6 +145,13 @@ const MyForm = () => {
 
 ```
 
+<details>
+  <summary>Click to expand</summary>
+  
+  <!-- Content goes here -->
+  This is a collapsible section!
+</details>
+
 ## License
 
 MIT © [AishwaryaMurade](https://github.com/AishwaryaMurade)
