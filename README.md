@@ -50,8 +50,10 @@ yarn add react-hook-assist
 - `useToggle` : Toggle between boolean states.
 
 
-### useForm
-`Description` : Manage form state and validation.
+<details>
+  <summary>useForm</summary>
+
+ `Description` : Manage form state and validation.
 
 ## Usage
 ```jsx
@@ -144,12 +146,6 @@ const MyForm = () => {
   )
 
 ```
-
-<details>
-  <summary>Click to expand</summary>
-  
-  <!-- Content goes here -->
-  This is a collapsible section!
 </details>
 
 ## License
